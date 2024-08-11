@@ -6,7 +6,7 @@
 Clone the repository and set up the environment:
 
 ```bash
-git clone -b main https://github.com/godcodehand/CRMNet.git
+git clone https://github.com/WJmodels/CRMNet.git
 cd CRMNet
 conda create -n CRMNet python=3.8 pytorch==1.10.1 torchvision==0.11.2 cudatoolkit=11.3 -c pytorch -y
 conda activate CRMNet
